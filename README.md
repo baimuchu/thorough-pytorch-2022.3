@@ -1,4 +1,5 @@
-# thorough-pytorch-2022.3 深入浅出PyTorch-2022年3月
+# Thorough-pytorch-2022.3 
+# 深入浅出PyTorch（进阶）-2022年3月
 
 ## 第一次作业-Pytorch模型定义
 本次作业主要完成了如下目标：
@@ -8,4 +9,4 @@
  - 模型的运行与保存，使用GPU或CPU完成模型的运行。
 
 ## 学习与参考资料
-[Datawhale-深入浅出PyTorch(进阶)]https://github.com/datawhalechina/thorough-pytorch
+[Datawhale-深入浅出PyTorch(进阶)](https://github.com/datawhalechina/thorough-pytorch)
