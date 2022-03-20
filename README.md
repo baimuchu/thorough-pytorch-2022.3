@@ -17,3 +17,5 @@
 
 ## 学习与参考资料
 [Datawhale-深入浅出PyTorch(进阶)](https://github.com/datawhalechina/thorough-pytorch)
+[Pytorch中文文档](https://www.pytorchtutorial.com)
+[Pytorch官方文档](https://pytorch.org/docs/stable/index.html)
