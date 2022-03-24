@@ -1,7 +1,7 @@
 # Thorough-pytorch-2022.3 
 # 深入浅出PyTorch（进阶）-2022年3月
 
-## 第一次作业-Pytorch模型定义
+## 第一次作业-PyTorch模型定义
 本次作业主要完成了如下目标：
  - 关于Module类的学习，包括了3种方式，当然比较好用的还是Sequential方法。
  - 使用Module类搭建一个卷积神经网络，这里将U-Net作为主要实现目标。
@@ -26,6 +26,11 @@
  - 使用Tensorboad工具对数据进行可视化，这个比较全能。可以对数据分析，AI都能做一些可视化工作。
 
 **本次任务最重要的工作对于一些调试错误给出了一些解决方法。**
+
+## 第四次作业-PyTorch生态环境
+ - 本章主要介绍Torchvision, Pytorchvidel和Torchtext的内置数据集，预训练模型，常用模型等
+ - 学习使用Transform库对图像进行增强
+ - **其实传统的opencv，Matplotlib都可以对图像进行增强或者调整，本次作业文件尝试了使用Matplotlib对图像进行增强。**
 
 ## 学习与参考资料
 [Datawhale-深入浅出PyTorch(进阶)](https://github.com/datawhalechina/thorough-pytorch)
